@@ -20,12 +20,6 @@
 - **Authentication**: JWT (JSON Web Tokens), Gmail OTP verification for password change
 - **Libraries/Tools**: bcrypt, Nodemailer, Mongoose, React Router
 
-## Installation
-
-To install the required node modules for both the frontend and backend, run the following command:
-
-```bash
-npm install
 ## Usage
 
 ### Sign Up / Log In:
